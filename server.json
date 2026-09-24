@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-aurora",
   "title": "Arcgis Aurora",
   "description": "City of Aurora GIS — Aurora, Colorado open geospatial data (ArcGIS).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-aurora",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-aurora",
