@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-aurora",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "City of Aurora GIS — Aurora, Colorado open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-54f1b16ed3b3b4e17757d04be09be307d1a3a858d07cb86d1a75cf168e8d28e9",
-    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
+    "sourceHash": "v1-e7bab381e9c94740e0c502bcf4aa48e9b24cd3a42d6a7e57643759a41c0112f3",
+    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
   }
 }
